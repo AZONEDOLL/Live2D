@@ -1,0 +1,23 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "Avatar_Zirui_loli_ver_2.2.5.moc3",
+		"Textures": [
+			"Avatar_Zirui_loli_ver_2.2.5.4096/texture_00.png"
+		],
+		"Physics": "Avatar_Zirui_loli_ver_2.2.5.physics3.json",
+		"DisplayInfo": "Avatar_Zirui_loli_ver_2.2.5.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	]
+}
